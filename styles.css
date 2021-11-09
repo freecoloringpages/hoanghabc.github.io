@@ -62,3 +62,7 @@ footer {
     height: auto;
   }
 }
+
+li {
+   margin:0 0 10px 0;   
+}
